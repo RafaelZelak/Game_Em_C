@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1650234359 source:c:\users\user\desktop\faculdade\teste c\game_unborn\main.c
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+	<ctype.h>
+	<limits.h>
+
+1650569597 source:c:\users\user\desktop\faculdade\teste c\jogo_ofc\game_unborn\main.c
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+	<ctype.h>
+	<limits.h>
+	"GameLib.h"
+	"GameSpriteLib.h"
+	"GameMenuLib.h"
+
+1650569605 c:\users\user\desktop\faculdade\teste c\jogo_ofc\game_unborn\gamelib.h
+
+1650557375 c:\users\user\desktop\faculdade\teste c\jogo_ofc\game_unborn\gamespritelib.h
+
+1650559847 c:\users\user\desktop\faculdade\teste c\jogo_ofc\game_unborn\gamemenulib.h
+
